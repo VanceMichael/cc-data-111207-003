@@ -10,8 +10,8 @@
     ": keepalive\r\n",
     "id: 41\r\nevent: state\r\n",
     "data: {\"device\":\"meter-a\",\r\n",
-    "data: \"version\":41,\"state\":\"alarm\"}\r\n\r\n",
-    "id: 42\ndata: {\"device\":\"meter-a\",\"version\":42,\"state\":\"normal\"}\n\n",
-    "id: 43\ndata: {\"device\":\"meter-b\",\"version\":43,\"state\":\"在线\"}"
+    "data: \"offset\":41,\"version\":41,\"state\":\"alarm\"}\r\n\r\n",
+    "id: 42\ndata: {\"device\":\"meter-a\",\"offset\":42,\"version\":42,\"state\":\"normal\"}\n\n",
+    "id: 43\ndata: {\"device\":\"meter-b\",\"offset\":43,\"version\":43,\"state\":\"在线\"}"
   ]
 }
